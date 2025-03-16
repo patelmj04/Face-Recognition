@@ -20,7 +20,7 @@ FaceRecog is a Python-based face recognition system built with OpenCV and featur
 ## Installation
 1. Clone or download this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/patelmj04/Face-Recognition.git>
    cd FaceRecog
    ```
 2. Install the required dependencies:
